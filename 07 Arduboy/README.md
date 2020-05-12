@@ -1,7 +1,8 @@
 # Arduboy
 
 ![alt text](https://abload.de/img/front_cutxnk1e.jpg)
-Watch it in action on ![Youtube](https://youtu.be/uTpxRrAvrZU)
+Watch it in action on [Youtube](https://youtu.be/uTpxRrAvrZU)
+<br>
 This costum Arduboy is a slightly different variant since it uses a 1309 Chipset (insted of 1306) for the OLED Display. <br>
 However this has just to be modified in the settings when flashed. <br>
 The most 2 easy options to flash: <br>
