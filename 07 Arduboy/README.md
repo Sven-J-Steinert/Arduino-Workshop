@@ -24,7 +24,7 @@ It uses a 2 Part sliding case to cover most of the back of the PCB while leaving
 |2|	3D Printed Case|	.stl in /CAD|
 
 # Wiring
-![alt text]()
+![alt text](https://abload.de/img/wireing_y2jv9.png)
 
 # PCB
 ![alt text]()
