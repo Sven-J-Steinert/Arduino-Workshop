@@ -18,7 +18,7 @@ It uses a 2 Part sliding case to cover most of the back of the PCB while leaving
 | :---   | :---   | :---   |
 |1|	Microcontrollerboard|	Arduino Pro Micro ATmega32U4 (Leonardo)|
 |2|	Display|	1,54 Zoll OLED 128x64 SSD 1309|
-|4|	Buzzer|	Microduino Buzzer 4 Pin|
+|1|	Buzzer|	Microduino Buzzer 4 Pin|
 |4|	Buttons|	12 x 12 x 7,3mm|
 |1|	PCB|	11.5 x 3.5cm|
 |2|	3D Printed Case|	.stl in /CAD|
