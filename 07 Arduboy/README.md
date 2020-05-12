@@ -26,6 +26,27 @@ It uses a 2 Part sliding case to cover most of the back of the PCB while leaving
 # Wiring
 ![alt text](https://abload.de/img/wireing_y2jv9.png)
 
+| Arduboy function | ProMicro 5V <br>(standard wiring) |
+| ---------------- |  ---------------------------------- |
+| OLED GND         |     GND     |
+| OLED VDD         |     VCC     |
+| OLED SCL         |     15      |
+| OLED SDA         |     16      |
+| OLED RST         |  6          | 
+| OLED DC          |   4         |
+| OLED CS          |     GND     |
+| BUTTON UP        | A0 PORTF7              | 
+| BUTTON RIGHT     | A1 PORTF6              |  
+| BUTTON LEFT      | A2 PORTF5              |  
+| BUTTON DOWN      | A3 PORTF4              |
+| BUTTON A (left)  |  7 PORTE6              |
+| BUTTON B (right) |  8 PORTB4              |
+| SPEAKER PIN 1    |  GND              | 
+| SPEAKER PIN 2    |  VCC              | 
+| SPEAKER PIN 3    |  5 PORTC6              | 
+| SPEAKER PIN 4    |  disconnected              | 
+
+
 # PCB
 ![alt text]()
 
