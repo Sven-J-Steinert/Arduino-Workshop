@@ -26,7 +26,8 @@ It uses a 2 Part sliding case to cover most of the back of the PCB while leaving
 # Wiring
 ![alt text](https://abload.de/img/wireing_y2jv9.png)
 
-| Arduboy function | ProMicro 5V <br>(standard wiring) |
+wiring Table
+| Arduboy function | ProMicro 5V |
 | ---------------- |  ---------------------------------- |
 | OLED GND         |     GND     |
 | OLED VDD         |     VCC     |
