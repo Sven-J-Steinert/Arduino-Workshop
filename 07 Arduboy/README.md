@@ -51,4 +51,4 @@ It uses a 2 Part sliding case to cover most of the back of the PCB while leaving
 ![alt text]()
 
 # Credits
-
+https://github.com/MrBlinky/Arduboy-homemade-package
